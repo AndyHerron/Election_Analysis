@@ -10,8 +10,8 @@ A Colorado Board of Elections employee has given us the following tasks to compl
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
-_ * Data Source: election_analysis.csv
-_ * Software: Python 3.8.8, Visual Studio Code 1.62.3
+* Data Source: election_analysis.csv
+* Software: Python 3.8.8, Visual Studio Code 1.62.3
 
 ## Election Audit Results
 * A total of 369,711 votes were cast in the 3 counties that we audited.
